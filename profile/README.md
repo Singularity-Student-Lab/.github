@@ -116,7 +116,7 @@ The Quantum Computing division of Singularity. We explore qubits, entanglement, 
 ![Error Correction](https://img.shields.io/badge/Error_Correction-0C1445?style=flat-square&logo=databricks&logoColor=FF3621)
 ![Quantum Simulation](https://img.shields.io/badge/Quantum_Simulation-0C1445?style=flat-square&logo=cirq&logoColor=white)
 
-**Executive Lead:** Jayanth Ramakrishnan — *Quantum Algorithms & ML · Founder*
+**Executive Lead:** [Jayanth Ramakrishnan](https://github.com/jayanthoffl) — *Quantum Algorithms & ML · Founder*
 
 <br/>
 
@@ -254,8 +254,6 @@ We are building at the frontier — not just with technology, but with intent.
 <div align="center">
 
 **Singularity Student Lab** · SRM University AP · Amaravati, Andhra Pradesh, India
-
-*Founded by [Jayanth Ramakrishnan](https://github.com/jayanthoffl)*
 
 <sub>Decode // Innovate // Transform</sub>
 
