@@ -3,8 +3,7 @@
 
 <br/>
 
-<!-- BANNER PLACEHOLDER — Replace with your LinkedIn-size banner (1584×396 px recommended) -->
-<!-- <img src="./assets/banner.png" alt="Singularity Student Lab Banner" width="100%"/> -->
+<img src="./assets/banner.png" alt="Singularity Student Lab Banner" width="100%"/>
 
 <br/>
 
@@ -77,8 +76,6 @@ Six specialized labs. One unified mission.
 ### `01` — Prajna Kritrima Lab
 **AI / ML · Deep Learning · Generative AI**
 
-<!-- LAB LOGO PLACEHOLDER -->
-<!-- <img src="./assets/prajna-kritrima-logo.png" alt="Prajna Kritrima Lab" width="80"/> -->
 
 > *Prajna Kritrima — Sanskrit for Artificial Intelligence (Prajna = wisdom, Kritrima = man-made)*
 
@@ -101,8 +98,6 @@ The AI, ML, and Deep Learning wing of Singularity. We research neural architectu
 ### `02` — Aanu Tattva Lab
 **Quantum Computing · Quantum Machine Learning**
 
-<!-- LAB LOGO PLACEHOLDER -->
-<!-- <img src="./assets/aanu-tattva-logo.png" alt="Aanu Tattva Lab" width="80"/> -->
 
 > *Aanu Tattva — Sanskrit: Aanu (atom) + Tattva (principle/essence)*
 
@@ -125,8 +120,6 @@ The Quantum Computing division of Singularity. We explore qubits, entanglement, 
 ### `03` — Chitra Darshan Lab
 **Game Development · AR · VR · Mixed Reality**
 
-<!-- LAB LOGO PLACEHOLDER -->
-<!-- <img src="./assets/chitra-darshan-logo.png" alt="Chitra Darshan Lab" width="80"/> -->
 
 > *Chitra Darshan — Sanskrit: "vision through imagery"*
 
@@ -149,8 +142,6 @@ The AR, VR, MR, and Game Development division. We craft virtual worlds, interact
 ### `04` — Varahamihira Lab
 **Cloud Computing · Cybersecurity**
 
-<!-- LAB LOGO PLACEHOLDER -->
-<!-- <img src="./assets/varahamihira-logo.png" alt="Varahamihira Lab" width="80"/> -->
 
 > *Named after Varahamihira — the legendary astronomer and polymath*
 
@@ -175,8 +166,6 @@ The Cloud Computing and Cybersecurity division. We architect scalable cloud syst
 ### `05` — Bhaskaracharya Lab
 **Blockchain · Web3 · Decentralized Systems**
 
-<!-- LAB LOGO PLACEHOLDER -->
-<!-- <img src="./assets/bhaskaracharya-logo.png" alt="Bhaskaracharya Lab" width="80"/> -->
 
 > *Named after Bhaskaracharya — the legendary mathematician and astronomer*
 
@@ -199,8 +188,6 @@ The Blockchain and Web3 division. We build decentralized applications, cryptogra
 ### `06` — Agastya Lab
 **Robotics · IoT · Embedded Systems · Drones**
 
-<!-- LAB LOGO PLACEHOLDER -->
-<!-- <img src="./assets/agastya-logo.png" alt="Agastya Lab" width="80"/> -->
 
 > *Inspired by Agastya — the ancient sage known for wisdom and innovation*
 
